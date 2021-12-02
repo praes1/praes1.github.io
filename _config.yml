@@ -15,7 +15,7 @@ description: "https://github.com/praes1/praes1.github.io" # This will show up in
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
-theme: "minima"
+theme: "hacker"
 
 rss: rss
 
