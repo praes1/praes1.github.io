@@ -9,3 +9,5 @@ if you want, you can mess around in this file and just play around, and see how 
 commit new file, in green. there might be a few minutes of delay untill the website is updated, but after, thats all you have to do! i dont know about images
 if you want to include an images, you have to upload them onto a website called imgur.com, and then just copy the link into your post. its pretty easy, theres no 
 coding involved, none of that type of stuff. 
+do not forget to commit the changes at the bottom!! without that, your letter will not be posted to the thread. to edit this, all you have to do is just click the little pencil on top of all the text. 
+❤️
